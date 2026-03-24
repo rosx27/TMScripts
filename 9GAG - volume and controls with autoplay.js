@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name 9gag volume and controls with autoplay
+// @name 9GAG - volume and controls with autoplay
 // @namespace https://github.com/rosx27/TMScripts/blob/main/9GAG%20volume%20and%20controls%20with%20autoplay.js
 // @match https://9gag.com/*
 // @run-at document-end

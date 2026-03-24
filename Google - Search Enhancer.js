@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Google Search Enhancer
+// @name Google - Search Enhancer
 // @namespace https://github.com/rosx27/TMScripts/blob/main/Google%20Search%20Enhancer.js
 // @version 1.0
 // @description Enhances Google Search with multiple features: removes sponsored results, adds quick filters, highlights keywords, keyboard shortcuts for navigation, infinite scroll, and custom search site modifiers

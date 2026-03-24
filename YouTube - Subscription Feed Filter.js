@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name YouTube Subscription Feed Filter
+// @name YouTube - Subscription Feed Filter
 // @namespace https://github.com/rosx27/TMScripts/blob/main/YouTube%20Subscription%20Feed%20Filter.js
 // @version 0.3
 // @description Filters out videos from specified YouTube channels on the subscriptions feed, showing only the first 3 per channel.

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Claude.ai Paste Chunker
+// @name Claude.ai - Paste Chunker
 // @namespace https://github.com/rosx27/TMScripts/blob/main/Claude.ai%20Paste%20Chunker.js
 // @version 1.0.0
 // @description Intercepts paste on claude.ai and splits large text into 1024-byte chunks to prevent attachment behavior

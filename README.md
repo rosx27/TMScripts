@@ -25,26 +25,26 @@ This repository contains JavaScript user scripts that improve functionality, rem
 | Script | Description |
 |--------|-------------|
 | `YouTube - Kill Hover Autoplay.js` | Disables video autoplay when hovering over thumbnails on YouTube |
-| `YouTube Bass Reducer (Specific Channel).js` | Reduces bass frequencies for specific YouTube channels |
-| `YouTube Home Feed View Filter (Extended).js` | Filters and organizes content in the YouTube home feed |
-| `YouTube Subscription Feed Filter.js` | Filters subscription feed content to show only relevant videos |
+| `YouTube - Bass Reducer (Specific Channel).js` | Reduces bass frequencies for specific YouTube channels |
+| `YouTube - Home Feed View Filter (Extended).js` | Filters and organizes content in the YouTube home feed |
+| `YouTube - Subscription Feed Filter.js` | Filters subscription feed content to show only relevant videos |
 
 ### 9GAG Scripts
 
 | Script | Description |
 |--------|-------------|
-| `9GAG Ad Cleaner (Safe).js` | Removes advertisements from 9GAG while maintaining functionality |
+| `9GAG - Ad Cleaner (Safe).js` | Removes advertisements from 9GAG while maintaining functionality |
 | `9GAG - Filter Posts by User Age and Vote Ratio.js` | Filters 9GAG posts based on user account age and vote ratios |
-| `9GAG volume and controls with autoplay.js` | Adds volume controls and autoplay functionality to 9GAG videos |
+| `9GAG - volume and controls with autoplay.js` | Adds volume controls and autoplay functionality to 9GAG videos |
 
 ### Other Scripts
 
 | Script | Description |
 |--------|-------------|
-| `AudioBook Bay - Modernized.js` | Enhances AudioBook Bay website with modern UI improvements |
-| `Claude.ai Paste Chunker.js` | Improves pasting functionality in Claude.ai by chunking large text |
-| `Google Search Enhancer.js` | Enhances Google search results page with additional features |
-| `Redirect & New Tab Permission Prompt.js` | Manages redirects and new tab permissions for better browsing control |
+| `AudioBookBay - Modernized.js` | Enhances AudioBook Bay website with modern UI improvements |
+| `Claude.ai - Paste Chunker.js` | Improves pasting functionality in Claude.ai by chunking large text |
+| `Google - Search Enhancer.js` | Enhances Google search results page with additional features |
+| `All - Redirect & New Tab Permission Prompt.js` | Manages redirects and new tab permissions for better browsing control |
 
 ## Usage
 
