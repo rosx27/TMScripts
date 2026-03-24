@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name YouTube Bass Reducer (Specific Channel)
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/YouTube%20Bass%20Reducer%20(Specific%20Channel).js
 // @version 2.0
 // @description Reduce bass for a specific YouTube channel with full audio chain
 // @author Ross

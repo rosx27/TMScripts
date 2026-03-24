@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name AudioBook Bay — Modernized
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/AudioBook%20Bay%20-%20Modernized.js
 // @version 2.0.0
 // @description  A complete visual overhaul of AudioBook Bay with a dark, editorial aesthetic
 // @author Ross

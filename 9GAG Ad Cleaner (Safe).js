@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name 9GAG Ad Cleaner (Safe)
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/9GAG%20Ad%20Cleaner%20(Safe).js
 // @version 1.1
 // @description Remove html-load.com ads without breaking layout
 // @author Ross

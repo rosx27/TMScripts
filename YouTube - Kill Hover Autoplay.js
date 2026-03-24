@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name YouTube - Kill Hover Autoplay
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/YouTube%20-%20Kill%20Hover%20Autoplay.js
 // @version 2.0.0
 // @description Kills YouTube inline playback / hover video previews. No more full-blast audio.
 // @author Ross

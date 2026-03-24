@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Redirect & New Tab Permission Prompt
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/Redirect%20%26%20New%20Tab%20Permission%20Prompt.js
 // @version 1.0
 // @description Ask before allowing redirects or new tabs
 // @author Ross

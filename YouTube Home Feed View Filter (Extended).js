@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name YouTube Home Feed View Filter (Extended)
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/YouTube%20Home%20Feed%20View%20Filter%20(Extended).js
 // @version 2.1
 // @description Filter low-view, Members Only, and Shorts from YouTube home feed and Shorts feed
 // @author Ross

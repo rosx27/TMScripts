@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name 9GAG - Filter Posts by User Age and Vote Ratio
-// @namespace https://github.com/rosx27/TMScripts
+// @namespace https://github.com/rosx27/TMScripts/blob/main/9GAG%20-%20Filter%20Posts%20by%20User%20Age%20and%20Vote%20Ratio.js
 // @version 1.1
 // @description Hide 9GAG posts from users registered less than X days or with low like/dislike ratio (< 75%)
 // @author Ross
